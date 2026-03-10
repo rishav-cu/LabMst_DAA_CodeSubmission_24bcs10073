@@ -25,7 +25,7 @@ class Solution {
             {
                 tempSmaller.next = new ListNode(value);
                 tempSmaller = tempSmaller.next;
-            }asd
+            }
             else{
               tempLarger.next = new ListNode(value);
               tempLarger = tempLarger.next;
